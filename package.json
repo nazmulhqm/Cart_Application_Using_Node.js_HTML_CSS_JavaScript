@@ -1,0 +1,15 @@
+{
+  "name": "ecommarce_project",
+  "version": "1.0.0",
+  "description": "E-commarce website project of Nazmul Hoque Munna. ID:1280321. Batch:CS/NVIT-M/57/01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nazmul Hoque Munna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
